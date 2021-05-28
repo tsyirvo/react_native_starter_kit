@@ -68,7 +68,7 @@
     "react-native-code-push": "7.0.0",
     "react-native-config": "1.4.2",
     "react-native-gesture-handler": "1.10.3",
-    "react-native-reanimated": "2.0.0",
+    "react-native-reanimated": "2.2.0",
     "react-native-safe-area-context": "3.2.0",
     "react-native-screens": "2.18.1",
     "styled-components": "5.2.1",
