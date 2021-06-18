@@ -70,7 +70,7 @@
     "react-native-gesture-handler": "1.10.3",
     "react-native-reanimated": "2.0.0",
     "react-native-safe-area-context": "3.2.0",
-    "react-native-screens": "2.18.1",
+    "react-native-screens": "3.4.0",
     "styled-components": "5.2.1",
     "styled-system": "5.1.5"
   },
